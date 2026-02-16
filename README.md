@@ -44,8 +44,8 @@ while True:
 
 
 ## OUTPUT
-![alt text](1256845.png)
-![alt text](158556.png)
+
+<img width="1246" height="528" alt="image" src="https://github.com/user-attachments/assets/812ab07d-9055-4762-a7bc-5b5585f49fc5" />
 
 
 ## RESULT
